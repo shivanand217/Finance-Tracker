@@ -1,5 +1,5 @@
 # Finance-Tracker
-A simple finance tracker app.
+A simple finance tracker app made with react native.
 
 ## Available Scripts
 
